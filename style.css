@@ -1,0 +1,38 @@
+#mulher {
+    position: relative;
+    text-align: center;
+    margin-top: 64px;
+}
+
+#wave {
+    position: absolute;
+}
+
+h1 {
+    color: #3F3D56;
+    text-align: center;
+}
+
+p {
+    color: #828282;
+    text-align: center;
+    margin-left: 249px;
+    margin-right: 235px;
+}
+
+#destinos {
+    text-align: center;
+    margin-left: 376px;
+    margin-right: 582px;
+
+}
+
+.roxo {
+    color: #EE24FF;
+}
+
+.azul,
+a {
+    color: #3F3D56;
+    font-weight: bold;
+}
